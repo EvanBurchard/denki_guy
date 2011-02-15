@@ -18,6 +18,9 @@ Setup
 2. rails generate rpg <whatever_you_want_the_map_to_be_called>
 3. Add in the jquery javascript file in application.rb like so:
     <%= javascript_include_tag 'jquery' %>
+  
+Note about (3): There are a few ways to switch over to jquery.  The key is to not have any of the prototype files messing up the game.  So that means 
+<%= javascript_include_tag :defaults %> will cause you problems, along with any inclusions of prototype.js, effects.js, dragdrop.js, or controls.js.
 
 Usage
 ----

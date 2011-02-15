@@ -84,8 +84,7 @@ class RpgGenerator < Rails::Generators::NamedBase
 
 
     This will not work if you are using prototype
-    A line such as '<%= javascript_include_tag :defaults %>' in application.html.erb will yield unexpected, weird behavior 
-    (mostly just breaking the page as far as I know so far).
+    A line such as '<%= javascript_include_tag :defaults %>' in application.html.erb will yield unexpected, weird behavior, so delete that and other references to prototype files (effects.js, dragdrop.js, controls.js, and naturally prototype.js) 
 
     A Jquery file has been added.  You will need to include this somewhere in your application layout or view like so: 
     <%= javascript_include_tag 'jquery' %>

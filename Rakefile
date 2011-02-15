@@ -17,7 +17,7 @@ spec = Gem::Specification.new do |s|
 
   # Change these as appropriate
   s.name              = "denki_guy"
-  s.version           = "0.1.2"
+  s.version           = "0.1.3"
   s.summary           = "An rpg generator for rails"
   s.author            = "Evan Burchard"
   s.email             = "evan.burchard@gmail.com"
