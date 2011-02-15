@@ -1,6 +1,8 @@
 Denki Guy
 =========
 
+![I don't always make gems](http://images2.memegenerator.net/ImageMacro/5774451/I-dont-always-make-gems-But-when-I-do-I-prefer-old-school-rpg-generators.jpg?imageSize=Medium&generatorName=The-Most-Interesting-Man-in-the-World)
+
 Denki Guy (電気ガイ) is an electrician who will rig up all of the houses in the buroughs of your denkigai (電気街), the electric town... Akihabara.
 
 What is it really?
