@@ -18,6 +18,4 @@ Features being considered
 * A menuing extension of the dialogue system that will support decision trees, or even an interaction as complicated buying something from the ubiquitous "shops" that pepper old jrpgs
 * Text input for less one sided conversations
 * Internationalization in dialogues
-
-And eventually:
-* Akihabara reintegration to support more sophisticated npcs, weapons, hud, audio, and non-rpg style games
+* Akihabara reintegration to support more sophisticated npcs, weapons, hud, audio, and non-rpg style games 
