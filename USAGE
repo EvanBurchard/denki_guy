@@ -31,4 +31,5 @@ Example:
       create  public/images/game/akihabara/fontbig.png
       create  public/images/game/akihabara/padbg.png
        route  match 'my_map' => 'game#my_map', :as => 'my_map'
+      create  public/javascripts/jquery.js
 
