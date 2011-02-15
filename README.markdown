@@ -1,12 +1,16 @@
 Denki Guy
 =========
 
-Denki Guy is an electrician who will rig up all of the houses in the buroughs of denkigai(電気街), the electric town... Akihabara.
+Denki Guy (電気ガイ) is an electrician who will rig up all of the houses in the buroughs of your denkigai (電気街), the electric town... Akihabara.
 
 What is it really?
-Ok. It is a small framework based on the akihabara html5 gaming engine with rails developers in mind.  The emphasis is less on a rich gaming experience and more on easily generating a 2d top-down jrpg style map for players to explore.  A lot was cut from the original framework, and entrances to other pages (which actually require a new url) were added to enable a new take on the familiar paradigm of content + links.  
 
-Note: This is only available for rails 3 projects.
+It is a small framework based on the akihabara html5 gaming engine with rails developers in mind.  The emphasis is less on a rich gaming experience and more on easily generating a 2d top-down jrpg style map for players to explore.  A lot was cut from the original framework, and entrances to other pages (which actually require a new url) were added to enable a new take on the familiar paradigm of content + links.  
+
+Dependencies
+------
+* rails 3
+* jquery
 
 Setup 
 --------------------
