@@ -19,12 +19,11 @@ Setup
 1. Start a rails project
 2. add the line "gem 'denki_guy'" to your Gemfile
 3. bundle install
-4. Copy this entire directory into your_project/lib/generators directory
-5. rails generate rpg <whatever_you_want_the_map_to_be_called>
-6. Add in the jquery javascript file in application.rb like so:
+4. rails generate rpg <whatever_you_want_the_map_to_be_called>
+5. Add in the jquery javascript file in application.rb like so:
     <%= javascript_include_tag 'jquery' %>
   
-Note about (6): There are a few ways to switch over to jquery.  The key is to not have any of the prototype files messing up the game.  So that means 
+Note about (5): There are a few ways to switch over to jquery.  The key is to not have any of the prototype files messing up the game.  So that means 
 <%= javascript_include_tag :defaults %> will cause you problems, along with any inclusions of prototype.js, effects.js, dragdrop.js, or controls.js.
 
 Usage
@@ -48,7 +47,7 @@ Future Features
 * Remove reliance on jquery
 * A text parser that will automatically generate text to be formatted for dialogues
 
-If you have any patches, sprites or other ideas to share, I would love to hear them!
+If you have any patches, sprites, template levels, or other ideas to share, I would love to hear them!
 
 Cheers,
 
