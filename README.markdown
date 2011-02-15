@@ -12,7 +12,7 @@ Setup
 --------------------
 1. Copy this entire directory into your_project/lib/generators directory
 2. rails generate rpg <whatever_you_want_the_map_to_be_called>
-3. Add in the jquery javascript file like so:
+3. Add in the jquery javascript file in application.rb like so:
     <%= javascript_include_tag 'jquery' %>
 
 Usage
