@@ -46,6 +46,7 @@ Future Features
 * Akihabara reintegration to support more sophisticated npcs, weapons, hud, audio, and non-rpg style games 
 * Remove reliance on jquery
 * A text parser that will automatically generate text to be formatted for dialogues
+* Handle browsers without canvas gracefully
 
 If you have any patches, sprites, template levels, or other ideas to share, I would love to hear them!
 
